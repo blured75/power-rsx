@@ -1,4 +1,4 @@
-# democpc2
+# power-rsx
 
 RSX commands that add named labels and multi-line IF blocks to Locomotive BASIC on the
 Amstrad CPC 6128, with sample programs on a `.dsk`, including a full vinyl collection manager.
